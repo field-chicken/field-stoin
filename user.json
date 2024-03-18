@@ -1,7 +1,5 @@
 {
 "#RA*U": "{plover:solo_dict:+raw.py}",
-"#REUBGS": "Rix",
-"PWR*U": "{^borough}",
 "PHROGS": "{plover:suggestions}",
 "RA*U": "{plover:solo_dict:+raw.py}{`^}"
 }
