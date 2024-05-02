@@ -1,0 +1,14 @@
+{
+"🦐": "🦐",
+"🦐ST": "{#Control(Shift(Tab))}",
+"🦐STKPW": "{#Control_L(z)}",
+"🦐STP": "{#Control(Shift(Alt(Tab)))}",
+"🦐SR": "{#Control_L(v)}",
+"🦐T": "{#Control(Tab)}",
+"🦐TP": "{#Control(Alt(Tab))}",
+"🦐KP": "{#Control_L(x)}",
+"🦐KR": "{#Control_L(c)}",
+"🦐PW": "{#Control(BackSpace)}{^}",
+"🦐PR": "{#Print}",
+"🦐A": "{#Control_L(a)}"
+}
