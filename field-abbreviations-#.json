@@ -102,6 +102,7 @@
 "#OPLG": "omg",
 "#OPLG/#AOEU": "oh my god",
 "#OPLG/#AOEU/#AOEU": "oh my gosh",
+"#*US": "US",
 "#*US/#AOEU": "United States",
 "#EURL": "irl",
 "#EURL/#AOEU": "in real life",
