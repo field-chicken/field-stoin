@@ -1,5 +1,6 @@
 {
 "#RA*U": "{plover:solo_dict:+raw.py}",
+"STOEUPB/PWAORD/#AOEU": "Any board which is in stock! {#Shift(Return)}Unless you need to use steno on a device that you can't install Plover on, then you would want to board which takes Javelin (embedded steno). {#Shift(Return)}{#Shift(Return)}This is a list of possible keyboards <https://plover.wiki/index.php/Supported_Hardware> {#Shift(Return)}These are the keyboards that support Javelin, <https://lim.au/#/software/javelin-steno>",
 "KAT/SKWRAPL/PHOEPBLG": "https://cdn.discordapp.com/emojis/741414119202357248.gif?size=160&quality=lossless",
 "PHROGS": "{plover:suggestions}",
 "RA*U": "{plover:solo_dict:+raw.py}{`^}"
